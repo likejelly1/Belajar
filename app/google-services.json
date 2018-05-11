@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "362576588079",
+    "firebase_url": "https://belajar-be5db.firebaseio.com",
+    "project_id": "belajar-be5db",
+    "storage_bucket": "belajar-be5db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362576588079:android:63e474dd0d2dc7b4",
+        "android_client_info": {
+          "package_name": "com.example.likejelly.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362576588079-2baaqau0pod7pmi7sn1se1gi3ifrrpc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.likejelly.crud",
+            "certificate_hash": "39bc28bc0d95320cfb06d849fd8c4d964aebd76d"
+          }
+        },
+        {
+          "client_id": "362576588079-qu1uiuinvqoiorff3gmdai2qipgggetq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBieCHYTaQv-Wh5KweMgcpXdGeoVE5mjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362576588079-qu1uiuinvqoiorff3gmdai2qipgggetq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
